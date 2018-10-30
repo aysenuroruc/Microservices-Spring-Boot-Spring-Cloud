@@ -1,0 +1,6 @@
+encrypt:
+  key-store:
+    location: classpath:/configkey.jks
+    password: citi
+    alias: citi
+    secret: citi
